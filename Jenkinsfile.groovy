@@ -1,6 +1,7 @@
 Jenkinsfile (canalización declarativa)
 pipeline {
     agent any
+    
 
     stages {
         stage('Build') {
